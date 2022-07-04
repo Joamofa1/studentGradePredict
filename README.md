@@ -1,5 +1,10 @@
 # studentGradePredict
-
+ 
+ 
+#Libraries used 
+- Numpy
+- Pandas
+- 
 
 
 This a Project on Student Grade prediction using Linear regrression. This is how you can train a linear regression model for the task of students grade prediction with machine learning using Python. 
