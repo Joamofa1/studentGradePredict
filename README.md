@@ -1,7 +1,7 @@
 # studentGradePredict
  
  
-#Libraries used 
+# Libraries used 
 - Numpy
 - Pandas
 - Sklearn
